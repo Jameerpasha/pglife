@@ -1,0 +1,97 @@
+.btn-primary{
+    background-color: black;
+}
+.modal-body{
+    background-image: url("../img/sig0.png");    
+}
+#login-modal{
+    transition: .3s ease-out;
+}
+#signup-modal{
+    transition: .3s ease-out;
+}
+.modal-footer{
+    transform: scale(.9);
+}
+.avatar{
+    margin-top: 1px;
+    margin-bottom: 20px;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.modal-body{
+    border-radius: 10px;
+}
+.aaaa{
+    background: #3c5077;
+}
+.apopup{
+    width: 300px;
+    background: rgb(228, 222, 208);
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    box-shadow:2px 2px 2px;
+}
+.apopup img{
+    width: 100px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border-color:rgb(130, 127, 124);
+    box-shadow: 0 2px 5px;
+
+}
+.apopup button{
+    width: 25%;
+    margin-top: 10px;
+    padding: 4px 0;
+    background:green;
+    color:#fff;
+    border:0;
+    outline: none;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px;
+}
+.bpopup{
+    width: 300px;
+    background: rgb(228, 222, 208);
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    box-shadow:2px 2px 2px;
+}
+.bpopup img{
+    width: 100px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border-color:rgb(130, 127, 124);
+    box-shadow: 0 2px 5px;
+
+}
+.bpopup button{
+    width: 25%;
+    margin-top: 10px;
+    padding: 4px 0;
+    background:green;
+    color:#fff;
+    border:0;
+    outline: none;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px;
+}
